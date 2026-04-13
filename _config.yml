@@ -1,2 +1,6 @@
-theme: minima
+remote_theme: jekyll/minima
 google_analytics: G-KPG8FHM2CV
+
+# https://github.com/jekyll/minima/issues/561
+plugins:
+- jekyll-remote-theme
