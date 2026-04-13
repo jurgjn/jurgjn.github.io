@@ -1,0 +1,10 @@
+{
+    "name": "jurgjn.github.io",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "forwardPorts": [
+        4000
+    ]
+}
